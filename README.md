@@ -1,0 +1,2 @@
+# Golem-Recruitment-Task-2025
+The recruitment task for the artificial intelligence community "Golem" at WEiTI PW for our team, consisting of @ondrey-16 and @xxxDKGxxx, involved participating in the Kaggle competition "Regression with an Insurance Dataset." Our goal was to analyze the performance of machine learning models from three popular Python libraries: Scikit-learn, XGBoost, and PyTorch. The entire notebook was created and written in Google Colab.
